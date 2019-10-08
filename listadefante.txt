@@ -1,5 +1,0 @@
-baby baby              \0
-tong tong              \0
-nunchako chako 	       \0
-pirulitao pop          \0
-tchubirubiru           \0
