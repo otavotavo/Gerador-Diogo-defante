@@ -7,4 +7,6 @@ Um gerador aleatorio de frases do diogo defante (quaisquer frases podem ser usad
   
   Nos arquivos listadefante.txt e finaldefante.txt estao apenas frases de exemplo.
   
+  É necessário baixar os arquivos listadefante.txt finaldefante.txt artigosdefante.txt win32defante.exe
+  
   Sobre o código, provavelmente existem formas melhores de fazer isso, e tá show assim.
